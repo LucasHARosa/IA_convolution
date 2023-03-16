@@ -1,11 +1,11 @@
-![GitHub repo size](https://img.shields.io/github/repo-size/LucasHARosa/IA_regressao)
-![GitHub top language](https://img.shields.io/github/languages/top/LucasHARosa/IA_regressao)
-![GitHub last commit](https://img.shields.io/github/last-commit/LucasHARosa/IA_regressao)
+![GitHub repo size](https://img.shields.io/github/repo-size/LucasHARosa/IA_convolution)
+![GitHub top language](https://img.shields.io/github/languages/top/LucasHARosa/IA_convolution)
+![GitHub last commit](https://img.shields.io/github/last-commit/LucasHARosa/IA_convolution)
 
 # Redes Neurais Convolucionais
 
 <p align="center">
-    <img src="https://www.sakurai.dev.br/assets/images/posts/2017-12-20-cnn-mapreduce.png" >
+    <img src="https://www.sakurai.dev.br/assets/images/posts/2017-12-20-cnn-mapreduce.png" width="500px" >
 </p>
 
 ## Introdução
